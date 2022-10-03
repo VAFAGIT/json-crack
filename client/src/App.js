@@ -12,6 +12,7 @@ function App() {
           <Link to="/"> Home Page</Link>
           <Link to="/login"> Login</Link>
           <Link to="/registration"> Registration</Link>
+          
         </div>
         <Switch>
           {/* <Route path="/registration" exact component={Registration} /> */}
