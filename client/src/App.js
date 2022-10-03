@@ -16,6 +16,7 @@ function App() {
         <Switch>
           {/* <Route path="/registration" exact component={Registration} /> */}
           <Route path="/login" exact component={Login} />
+          {/* <Route path="/" exact component={Registration} /> */}
         </Switch>
       </Router>
     </div>
